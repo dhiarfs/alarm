@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "850865286625",
+    "project_id": "alarm-63a2d",
+    "storage_bucket": "alarm-63a2d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850865286625:android:8e3825138470bd844d36a0",
+        "android_client_info": {
+          "package_name": "com.example.alarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "850865286625-5aghtua4dkchhr3bm13bldhuo815duic.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK-zVHmBEyXk7HXlnQnL_B4FcjSe5jjgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "850865286625-5aghtua4dkchhr3bm13bldhuo815duic.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
